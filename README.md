@@ -1,4 +1,7 @@
 # fastcampus - HTML/CSS, Javascript
-- 개요
-	- HTML
-	- CSS
+## Git 사용법
+```shell
+$ git clone git clone https://github.com/zoonny/html_css_javascript.git
+$ git add *
+$ git commit -m "comment"
+$ git push -u origin master
