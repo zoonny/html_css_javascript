@@ -10,3 +10,5 @@ function displayModal() {
 openBtn.addEventListener("click", displayModal);
 closeBtn.addEventListener("click", displayModal);
 modalBackground.addEventListener("click", displayModal);
+
+displayModal();
